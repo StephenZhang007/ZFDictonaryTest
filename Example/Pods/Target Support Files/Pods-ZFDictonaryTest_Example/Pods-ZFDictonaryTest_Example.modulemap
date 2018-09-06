@@ -1,0 +1,6 @@
+framework module Pods_ZFDictonaryTest_Example {
+  umbrella header "Pods-ZFDictonaryTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

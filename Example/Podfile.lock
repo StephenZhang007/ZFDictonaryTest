@@ -1,0 +1,16 @@
+PODS:
+  - ZFDictonaryTest (0.1.0)
+
+DEPENDENCIES:
+  - ZFDictonaryTest (from `../`)
+
+EXTERNAL SOURCES:
+  ZFDictonaryTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZFDictonaryTest: 1d84c7e87e07bc4be4a48700b0bb42ff6c32941a
+
+PODFILE CHECKSUM: c7bc19bf03b45118fd0fbc84febc1a098935cdaf
+
+COCOAPODS: 1.5.3

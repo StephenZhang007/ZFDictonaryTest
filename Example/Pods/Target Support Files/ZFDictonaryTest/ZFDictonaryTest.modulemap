@@ -1,0 +1,6 @@
+framework module ZFDictonaryTest {
+  umbrella header "ZFDictonaryTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
