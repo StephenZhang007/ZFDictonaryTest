@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZFDictonaryTest_Example' do
+  pod 'ZFDictonaryTest', :path => '../'
+
+  target 'ZFDictonaryTest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
